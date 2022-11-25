@@ -1,7 +1,5 @@
 # KIM GYEOUNG HO
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkomool&count_bg=%238A2BE2&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kito17)](https://solved.ac/kito17/)
 
 ![komool's github stats](https://github-readme-stats.vercel.app/api?username=komool&show_icons=true)
